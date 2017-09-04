@@ -1,0 +1,6355 @@
+﻿.font-s60 {
+  font-size: 60px;
+}
+.font-s58 {
+  font-size: 58px;
+}
+.font-s56 {
+  font-size: 56px;
+}
+.font-s54 {
+  font-size: 54px;
+}
+.font-s52 {
+  font-size: 52px;
+}
+.font-s50 {
+  font-size: 50px;
+}
+.font-s48 {
+  font-size: 48px;
+}
+.font-s46 {
+  font-size: 46px;
+}
+.font-s44 {
+  font-size: 44px;
+}
+.font-s42 {
+  font-size: 42px;
+}
+.font-s40 {
+  font-size: 40px;
+}
+.font-s38 {
+  font-size: 38px;
+}
+.font-s36 {
+  font-size: 36px;
+}
+.font-s34 {
+  font-size: 34px;
+}
+.font-s32 {
+  font-size: 32px;
+}
+.font-s30 {
+  font-size: 30px;
+}
+.font-s28 {
+  font-size: 28px;
+}
+.font-s26 {
+  font-size: 26px;
+}
+.font-s24 {
+  font-size: 24px;
+}
+.font-s22 {
+  font-size: 22px;
+}
+.font-s20 {
+  font-size: 20px;
+}
+.font-s18 {
+  font-size: 18px;
+}
+.font-s16 {
+  font-size: 16px;
+}
+.font-s14 {
+  font-size: 14px;
+}
+.font-s12 {
+  font-size: 12px;
+}
+.font-s10 {
+  font-size: 10px;
+}
+.font-s8 {
+  font-size: 8px;
+}
+.font-s6 {
+  font-size: 6px;
+}
+.font-s4 {
+  font-size: 4px;
+}
+.font-s2 {
+  font-size: 2px;
+}
+.col-lg-12 .vertical-height-12,
+.col-md-12 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-12 .vertical-height-12.tile,
+.col-md-12 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-12 > .tile-big,
+.col-md-12 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-12 > .tile-big span,
+.col-md-12 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-12 > .tile-caption,
+.col-md-12 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-12 .vertical-height-11,
+.col-md-12 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-12 .vertical-height-11.tile,
+.col-md-12 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-11 > .tile-big,
+.col-md-12 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-11 > .tile-big span,
+.col-md-12 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-11 > .tile-caption,
+.col-md-12 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-12 .vertical-height-10,
+.col-md-12 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-12 .vertical-height-10.tile,
+.col-md-12 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-10 > .tile-big,
+.col-md-12 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-10 > .tile-big span,
+.col-md-12 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-10 > .tile-caption,
+.col-md-12 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-12 .vertical-height-9,
+.col-md-12 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-12 .vertical-height-9.tile,
+.col-md-12 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-9 > .tile-big,
+.col-md-12 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-9 > .tile-big span,
+.col-md-12 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-9 > .tile-caption,
+.col-md-12 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-12 .vertical-height-8,
+.col-md-12 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-12 .vertical-height-8.tile,
+.col-md-12 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-8 > .tile-big,
+.col-md-12 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-8 > .tile-big span,
+.col-md-12 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-8 > .tile-caption,
+.col-md-12 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-12 .vertical-height-7,
+.col-md-12 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-12 .vertical-height-7.tile,
+.col-md-12 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-7 > .tile-big,
+.col-md-12 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-7 > .tile-big span,
+.col-md-12 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-7 > .tile-caption,
+.col-md-12 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-12 .vertical-height-6,
+.col-md-12 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-12 .vertical-height-6.tile,
+.col-md-12 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-6 > .tile-big,
+.col-md-12 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-6 > .tile-big span,
+.col-md-12 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-6 > .tile-caption,
+.col-md-12 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-12 .vertical-height-5,
+.col-md-12 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-12 .vertical-height-5.tile,
+.col-md-12 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-5 > .tile-big,
+.col-md-12 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-5 > .tile-big span,
+.col-md-12 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-5 > .tile-caption,
+.col-md-12 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-12 .vertical-height-4,
+.col-md-12 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-12 .vertical-height-4.tile,
+.col-md-12 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-4 > .tile-big,
+.col-md-12 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-4 > .tile-big span,
+.col-md-12 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-4 > .tile-caption,
+.col-md-12 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-12 .vertical-height-3,
+.col-md-12 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-12 .vertical-height-3.tile,
+.col-md-12 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-3 > .tile-big,
+.col-md-12 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-3 > .tile-big span,
+.col-md-12 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-3 > .tile-caption,
+.col-md-12 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-12 .vertical-height-2,
+.col-md-12 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-12 .vertical-height-2.tile,
+.col-md-12 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-2 > .tile-big,
+.col-md-12 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-2 > .tile-big span,
+.col-md-12 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-2 > .tile-caption,
+.col-md-12 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-12 .vertical-height-1,
+.col-md-12 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-12 .vertical-height-1.tile,
+.col-md-12 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-12 .vertical-height-1 > .tile-big,
+.col-md-12 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-12 .vertical-height-1 > .tile-big span,
+.col-md-12 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-12 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-12 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-12 .vertical-height-1 > .tile-caption,
+.col-md-12 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-11 .vertical-height-12,
+.col-md-11 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-11 .vertical-height-12.tile,
+.col-md-11 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-12 > .tile-big,
+.col-md-11 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-12 > .tile-big span,
+.col-md-11 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-12 > .tile-caption,
+.col-md-11 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-11 .vertical-height-11,
+.col-md-11 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-11 .vertical-height-11.tile,
+.col-md-11 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-11 > .tile-big,
+.col-md-11 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-11 > .tile-big span,
+.col-md-11 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-11 > .tile-caption,
+.col-md-11 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-11 .vertical-height-10,
+.col-md-11 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-11 .vertical-height-10.tile,
+.col-md-11 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-10 > .tile-big,
+.col-md-11 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-10 > .tile-big span,
+.col-md-11 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-10 > .tile-caption,
+.col-md-11 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-11 .vertical-height-9,
+.col-md-11 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-11 .vertical-height-9.tile,
+.col-md-11 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-9 > .tile-big,
+.col-md-11 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-9 > .tile-big span,
+.col-md-11 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-9 > .tile-caption,
+.col-md-11 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-11 .vertical-height-8,
+.col-md-11 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-11 .vertical-height-8.tile,
+.col-md-11 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-8 > .tile-big,
+.col-md-11 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-8 > .tile-big span,
+.col-md-11 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-8 > .tile-caption,
+.col-md-11 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-11 .vertical-height-7,
+.col-md-11 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-11 .vertical-height-7.tile,
+.col-md-11 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-7 > .tile-big,
+.col-md-11 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-7 > .tile-big span,
+.col-md-11 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-7 > .tile-caption,
+.col-md-11 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-11 .vertical-height-6,
+.col-md-11 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-11 .vertical-height-6.tile,
+.col-md-11 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-6 > .tile-big,
+.col-md-11 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-6 > .tile-big span,
+.col-md-11 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-6 > .tile-caption,
+.col-md-11 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-11 .vertical-height-5,
+.col-md-11 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-11 .vertical-height-5.tile,
+.col-md-11 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-5 > .tile-big,
+.col-md-11 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-5 > .tile-big span,
+.col-md-11 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-5 > .tile-caption,
+.col-md-11 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-11 .vertical-height-4,
+.col-md-11 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-11 .vertical-height-4.tile,
+.col-md-11 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-4 > .tile-big,
+.col-md-11 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-4 > .tile-big span,
+.col-md-11 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-4 > .tile-caption,
+.col-md-11 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-11 .vertical-height-3,
+.col-md-11 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-11 .vertical-height-3.tile,
+.col-md-11 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-3 > .tile-big,
+.col-md-11 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-3 > .tile-big span,
+.col-md-11 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-3 > .tile-caption,
+.col-md-11 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-11 .vertical-height-2,
+.col-md-11 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-11 .vertical-height-2.tile,
+.col-md-11 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-2 > .tile-big,
+.col-md-11 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-2 > .tile-big span,
+.col-md-11 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-2 > .tile-caption,
+.col-md-11 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-11 .vertical-height-1,
+.col-md-11 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-11 .vertical-height-1.tile,
+.col-md-11 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-11 .vertical-height-1 > .tile-big,
+.col-md-11 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-11 .vertical-height-1 > .tile-big span,
+.col-md-11 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-11 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-11 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-11 .vertical-height-1 > .tile-caption,
+.col-md-11 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-10 .vertical-height-12,
+.col-md-10 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-10 .vertical-height-12.tile,
+.col-md-10 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-12 > .tile-big,
+.col-md-10 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-12 > .tile-big span,
+.col-md-10 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-12 > .tile-caption,
+.col-md-10 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-10 .vertical-height-11,
+.col-md-10 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-10 .vertical-height-11.tile,
+.col-md-10 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-11 > .tile-big,
+.col-md-10 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-11 > .tile-big span,
+.col-md-10 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-11 > .tile-caption,
+.col-md-10 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-10 .vertical-height-10,
+.col-md-10 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-10 .vertical-height-10.tile,
+.col-md-10 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-10 > .tile-big,
+.col-md-10 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-10 > .tile-big span,
+.col-md-10 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-10 > .tile-caption,
+.col-md-10 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-10 .vertical-height-9,
+.col-md-10 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-10 .vertical-height-9.tile,
+.col-md-10 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-9 > .tile-big,
+.col-md-10 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-9 > .tile-big span,
+.col-md-10 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-9 > .tile-caption,
+.col-md-10 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-10 .vertical-height-8,
+.col-md-10 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-10 .vertical-height-8.tile,
+.col-md-10 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-8 > .tile-big,
+.col-md-10 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-8 > .tile-big span,
+.col-md-10 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-8 > .tile-caption,
+.col-md-10 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-10 .vertical-height-7,
+.col-md-10 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-10 .vertical-height-7.tile,
+.col-md-10 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-7 > .tile-big,
+.col-md-10 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-7 > .tile-big span,
+.col-md-10 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-7 > .tile-caption,
+.col-md-10 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-10 .vertical-height-6,
+.col-md-10 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-10 .vertical-height-6.tile,
+.col-md-10 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-6 > .tile-big,
+.col-md-10 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-6 > .tile-big span,
+.col-md-10 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-6 > .tile-caption,
+.col-md-10 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-10 .vertical-height-5,
+.col-md-10 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-10 .vertical-height-5.tile,
+.col-md-10 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-5 > .tile-big,
+.col-md-10 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-5 > .tile-big span,
+.col-md-10 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-5 > .tile-caption,
+.col-md-10 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-10 .vertical-height-4,
+.col-md-10 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-10 .vertical-height-4.tile,
+.col-md-10 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-4 > .tile-big,
+.col-md-10 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-4 > .tile-big span,
+.col-md-10 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-4 > .tile-caption,
+.col-md-10 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-10 .vertical-height-3,
+.col-md-10 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-10 .vertical-height-3.tile,
+.col-md-10 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-3 > .tile-big,
+.col-md-10 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-3 > .tile-big span,
+.col-md-10 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-3 > .tile-caption,
+.col-md-10 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-10 .vertical-height-2,
+.col-md-10 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-10 .vertical-height-2.tile,
+.col-md-10 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-2 > .tile-big,
+.col-md-10 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-2 > .tile-big span,
+.col-md-10 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-2 > .tile-caption,
+.col-md-10 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-10 .vertical-height-1,
+.col-md-10 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-10 .vertical-height-1.tile,
+.col-md-10 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-10 .vertical-height-1 > .tile-big,
+.col-md-10 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-10 .vertical-height-1 > .tile-big span,
+.col-md-10 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-10 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-10 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-10 .vertical-height-1 > .tile-caption,
+.col-md-10 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-9 .vertical-height-12,
+.col-md-9 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-9 .vertical-height-12.tile,
+.col-md-9 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-12 > .tile-big,
+.col-md-9 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-12 > .tile-big span,
+.col-md-9 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-12 > .tile-caption,
+.col-md-9 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-9 .vertical-height-11,
+.col-md-9 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-9 .vertical-height-11.tile,
+.col-md-9 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-11 > .tile-big,
+.col-md-9 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-11 > .tile-big span,
+.col-md-9 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-11 > .tile-caption,
+.col-md-9 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-9 .vertical-height-10,
+.col-md-9 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-9 .vertical-height-10.tile,
+.col-md-9 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-10 > .tile-big,
+.col-md-9 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-10 > .tile-big span,
+.col-md-9 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-10 > .tile-caption,
+.col-md-9 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-9 .vertical-height-9,
+.col-md-9 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-9 .vertical-height-9.tile,
+.col-md-9 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-9 > .tile-big,
+.col-md-9 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-9 > .tile-big span,
+.col-md-9 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-9 > .tile-caption,
+.col-md-9 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-9 .vertical-height-8,
+.col-md-9 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-9 .vertical-height-8.tile,
+.col-md-9 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-8 > .tile-big,
+.col-md-9 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-8 > .tile-big span,
+.col-md-9 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-8 > .tile-caption,
+.col-md-9 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-9 .vertical-height-7,
+.col-md-9 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-9 .vertical-height-7.tile,
+.col-md-9 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-7 > .tile-big,
+.col-md-9 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-7 > .tile-big span,
+.col-md-9 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-7 > .tile-caption,
+.col-md-9 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-9 .vertical-height-6,
+.col-md-9 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-9 .vertical-height-6.tile,
+.col-md-9 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-6 > .tile-big,
+.col-md-9 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-6 > .tile-big span,
+.col-md-9 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-6 > .tile-caption,
+.col-md-9 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-9 .vertical-height-5,
+.col-md-9 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-9 .vertical-height-5.tile,
+.col-md-9 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-5 > .tile-big,
+.col-md-9 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-5 > .tile-big span,
+.col-md-9 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-5 > .tile-caption,
+.col-md-9 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-9 .vertical-height-4,
+.col-md-9 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-9 .vertical-height-4.tile,
+.col-md-9 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-4 > .tile-big,
+.col-md-9 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-4 > .tile-big span,
+.col-md-9 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-4 > .tile-caption,
+.col-md-9 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-9 .vertical-height-3,
+.col-md-9 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-9 .vertical-height-3.tile,
+.col-md-9 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-3 > .tile-big,
+.col-md-9 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-3 > .tile-big span,
+.col-md-9 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-3 > .tile-caption,
+.col-md-9 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-9 .vertical-height-2,
+.col-md-9 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-9 .vertical-height-2.tile,
+.col-md-9 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-2 > .tile-big,
+.col-md-9 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-2 > .tile-big span,
+.col-md-9 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-2 > .tile-caption,
+.col-md-9 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-9 .vertical-height-1,
+.col-md-9 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-9 .vertical-height-1.tile,
+.col-md-9 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-9 .vertical-height-1 > .tile-big,
+.col-md-9 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-9 .vertical-height-1 > .tile-big span,
+.col-md-9 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-9 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-9 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-9 .vertical-height-1 > .tile-caption,
+.col-md-9 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-8 .vertical-height-12,
+.col-md-8 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-8 .vertical-height-12.tile,
+.col-md-8 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-12 > .tile-big,
+.col-md-8 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-12 > .tile-big span,
+.col-md-8 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-12 > .tile-caption,
+.col-md-8 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-8 .vertical-height-11,
+.col-md-8 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-8 .vertical-height-11.tile,
+.col-md-8 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-11 > .tile-big,
+.col-md-8 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-11 > .tile-big span,
+.col-md-8 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-11 > .tile-caption,
+.col-md-8 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-8 .vertical-height-10,
+.col-md-8 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-8 .vertical-height-10.tile,
+.col-md-8 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-10 > .tile-big,
+.col-md-8 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-10 > .tile-big span,
+.col-md-8 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-10 > .tile-caption,
+.col-md-8 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-8 .vertical-height-9,
+.col-md-8 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-8 .vertical-height-9.tile,
+.col-md-8 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-9 > .tile-big,
+.col-md-8 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-9 > .tile-big span,
+.col-md-8 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-9 > .tile-caption,
+.col-md-8 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-8 .vertical-height-8,
+.col-md-8 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-8 .vertical-height-8.tile,
+.col-md-8 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-8 > .tile-big,
+.col-md-8 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-8 > .tile-big span,
+.col-md-8 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-8 > .tile-caption,
+.col-md-8 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-8 .vertical-height-7,
+.col-md-8 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-8 .vertical-height-7.tile,
+.col-md-8 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-7 > .tile-big,
+.col-md-8 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-7 > .tile-big span,
+.col-md-8 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-7 > .tile-caption,
+.col-md-8 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-8 .vertical-height-6,
+.col-md-8 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-8 .vertical-height-6.tile,
+.col-md-8 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-6 > .tile-big,
+.col-md-8 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-6 > .tile-big span,
+.col-md-8 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-6 > .tile-caption,
+.col-md-8 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-8 .vertical-height-5,
+.col-md-8 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-8 .vertical-height-5.tile,
+.col-md-8 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-5 > .tile-big,
+.col-md-8 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-5 > .tile-big span,
+.col-md-8 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-5 > .tile-caption,
+.col-md-8 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-8 .vertical-height-4,
+.col-md-8 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-8 .vertical-height-4.tile,
+.col-md-8 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-4 > .tile-big,
+.col-md-8 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-4 > .tile-big span,
+.col-md-8 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-4 > .tile-caption,
+.col-md-8 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-8 .vertical-height-3,
+.col-md-8 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-8 .vertical-height-3.tile,
+.col-md-8 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-3 > .tile-big,
+.col-md-8 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-3 > .tile-big span,
+.col-md-8 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-3 > .tile-caption,
+.col-md-8 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-8 .vertical-height-2,
+.col-md-8 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-8 .vertical-height-2.tile,
+.col-md-8 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-2 > .tile-big,
+.col-md-8 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-2 > .tile-big span,
+.col-md-8 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-2 > .tile-caption,
+.col-md-8 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-8 .vertical-height-1,
+.col-md-8 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-8 .vertical-height-1.tile,
+.col-md-8 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-8 .vertical-height-1 > .tile-big,
+.col-md-8 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-8 .vertical-height-1 > .tile-big span,
+.col-md-8 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-8 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-8 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-8 .vertical-height-1 > .tile-caption,
+.col-md-8 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-7 .vertical-height-12,
+.col-md-7 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-7 .vertical-height-12.tile,
+.col-md-7 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-12 > .tile-big,
+.col-md-7 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-12 > .tile-big span,
+.col-md-7 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-12 > .tile-caption,
+.col-md-7 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-7 .vertical-height-11,
+.col-md-7 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-7 .vertical-height-11.tile,
+.col-md-7 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-11 > .tile-big,
+.col-md-7 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-11 > .tile-big span,
+.col-md-7 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-11 > .tile-caption,
+.col-md-7 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-7 .vertical-height-10,
+.col-md-7 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-7 .vertical-height-10.tile,
+.col-md-7 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-10 > .tile-big,
+.col-md-7 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-10 > .tile-big span,
+.col-md-7 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-10 > .tile-caption,
+.col-md-7 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-7 .vertical-height-9,
+.col-md-7 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-7 .vertical-height-9.tile,
+.col-md-7 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-9 > .tile-big,
+.col-md-7 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-9 > .tile-big span,
+.col-md-7 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-9 > .tile-caption,
+.col-md-7 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-7 .vertical-height-8,
+.col-md-7 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-7 .vertical-height-8.tile,
+.col-md-7 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-8 > .tile-big,
+.col-md-7 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-8 > .tile-big span,
+.col-md-7 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-8 > .tile-caption,
+.col-md-7 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-7 .vertical-height-7,
+.col-md-7 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-7 .vertical-height-7.tile,
+.col-md-7 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-7 > .tile-big,
+.col-md-7 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-7 > .tile-big span,
+.col-md-7 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-7 > .tile-caption,
+.col-md-7 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-7 .vertical-height-6,
+.col-md-7 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-7 .vertical-height-6.tile,
+.col-md-7 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-6 > .tile-big,
+.col-md-7 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-6 > .tile-big span,
+.col-md-7 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-6 > .tile-caption,
+.col-md-7 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-7 .vertical-height-5,
+.col-md-7 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-7 .vertical-height-5.tile,
+.col-md-7 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-5 > .tile-big,
+.col-md-7 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-5 > .tile-big span,
+.col-md-7 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-5 > .tile-caption,
+.col-md-7 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-7 .vertical-height-4,
+.col-md-7 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-7 .vertical-height-4.tile,
+.col-md-7 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-4 > .tile-big,
+.col-md-7 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-4 > .tile-big span,
+.col-md-7 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-4 > .tile-caption,
+.col-md-7 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-7 .vertical-height-3,
+.col-md-7 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-7 .vertical-height-3.tile,
+.col-md-7 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-3 > .tile-big,
+.col-md-7 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-3 > .tile-big span,
+.col-md-7 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-3 > .tile-caption,
+.col-md-7 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-7 .vertical-height-2,
+.col-md-7 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-7 .vertical-height-2.tile,
+.col-md-7 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-2 > .tile-big,
+.col-md-7 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-2 > .tile-big span,
+.col-md-7 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-2 > .tile-caption,
+.col-md-7 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-7 .vertical-height-1,
+.col-md-7 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-7 .vertical-height-1.tile,
+.col-md-7 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-7 .vertical-height-1 > .tile-big,
+.col-md-7 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-7 .vertical-height-1 > .tile-big span,
+.col-md-7 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-7 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-7 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-7 .vertical-height-1 > .tile-caption,
+.col-md-7 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-6 .vertical-height-12,
+.col-md-6 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-6 .vertical-height-12.tile,
+.col-md-6 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-12 > .tile-big,
+.col-md-6 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-12 > .tile-big span,
+.col-md-6 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-12 > .tile-caption,
+.col-md-6 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-6 .vertical-height-11,
+.col-md-6 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-6 .vertical-height-11.tile,
+.col-md-6 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-11 > .tile-big,
+.col-md-6 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-11 > .tile-big span,
+.col-md-6 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-11 > .tile-caption,
+.col-md-6 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-6 .vertical-height-10,
+.col-md-6 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-6 .vertical-height-10.tile,
+.col-md-6 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-10 > .tile-big,
+.col-md-6 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-10 > .tile-big span,
+.col-md-6 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-10 > .tile-caption,
+.col-md-6 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-6 .vertical-height-9,
+.col-md-6 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-6 .vertical-height-9.tile,
+.col-md-6 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-9 > .tile-big,
+.col-md-6 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-9 > .tile-big span,
+.col-md-6 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-9 > .tile-caption,
+.col-md-6 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-6 .vertical-height-8,
+.col-md-6 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-6 .vertical-height-8.tile,
+.col-md-6 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-8 > .tile-big,
+.col-md-6 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-8 > .tile-big span,
+.col-md-6 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-8 > .tile-caption,
+.col-md-6 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-6 .vertical-height-7,
+.col-md-6 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-6 .vertical-height-7.tile,
+.col-md-6 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-7 > .tile-big,
+.col-md-6 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-7 > .tile-big span,
+.col-md-6 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-7 > .tile-caption,
+.col-md-6 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-6 .vertical-height-6,
+.col-md-6 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-6 .vertical-height-6.tile,
+.col-md-6 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-6 > .tile-big,
+.col-md-6 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-6 > .tile-big span,
+.col-md-6 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-6 > .tile-caption,
+.col-md-6 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-6 .vertical-height-5,
+.col-md-6 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-6 .vertical-height-5.tile,
+.col-md-6 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-5 > .tile-big,
+.col-md-6 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-5 > .tile-big span,
+.col-md-6 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-5 > .tile-caption,
+.col-md-6 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-6 .vertical-height-4,
+.col-md-6 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-6 .vertical-height-4.tile,
+.col-md-6 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-4 > .tile-big,
+.col-md-6 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-4 > .tile-big span,
+.col-md-6 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-4 > .tile-caption,
+.col-md-6 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-6 .vertical-height-3,
+.col-md-6 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-6 .vertical-height-3.tile,
+.col-md-6 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-3 > .tile-big,
+.col-md-6 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-3 > .tile-big span,
+.col-md-6 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-3 > .tile-caption,
+.col-md-6 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-6 .vertical-height-2,
+.col-md-6 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-6 .vertical-height-2.tile,
+.col-md-6 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-2 > .tile-big,
+.col-md-6 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-2 > .tile-big span,
+.col-md-6 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-2 > .tile-caption,
+.col-md-6 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-6 .vertical-height-1,
+.col-md-6 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-6 .vertical-height-1.tile,
+.col-md-6 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-6 .vertical-height-1 > .tile-big,
+.col-md-6 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-6 .vertical-height-1 > .tile-big span,
+.col-md-6 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-6 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-6 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-6 .vertical-height-1 > .tile-caption,
+.col-md-6 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-5 .vertical-height-12,
+.col-md-5 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-5 .vertical-height-12.tile,
+.col-md-5 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-12 > .tile-big,
+.col-md-5 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-12 > .tile-big span,
+.col-md-5 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-12 > .tile-caption,
+.col-md-5 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-5 .vertical-height-11,
+.col-md-5 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-5 .vertical-height-11.tile,
+.col-md-5 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-11 > .tile-big,
+.col-md-5 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-11 > .tile-big span,
+.col-md-5 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-11 > .tile-caption,
+.col-md-5 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-5 .vertical-height-10,
+.col-md-5 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-5 .vertical-height-10.tile,
+.col-md-5 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-10 > .tile-big,
+.col-md-5 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-10 > .tile-big span,
+.col-md-5 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-10 > .tile-caption,
+.col-md-5 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-5 .vertical-height-9,
+.col-md-5 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-5 .vertical-height-9.tile,
+.col-md-5 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-9 > .tile-big,
+.col-md-5 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-9 > .tile-big span,
+.col-md-5 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-9 > .tile-caption,
+.col-md-5 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-5 .vertical-height-8,
+.col-md-5 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-5 .vertical-height-8.tile,
+.col-md-5 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-8 > .tile-big,
+.col-md-5 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-8 > .tile-big span,
+.col-md-5 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-8 > .tile-caption,
+.col-md-5 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-5 .vertical-height-7,
+.col-md-5 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-5 .vertical-height-7.tile,
+.col-md-5 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-7 > .tile-big,
+.col-md-5 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-7 > .tile-big span,
+.col-md-5 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-7 > .tile-caption,
+.col-md-5 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-5 .vertical-height-6,
+.col-md-5 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-5 .vertical-height-6.tile,
+.col-md-5 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-6 > .tile-big,
+.col-md-5 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-6 > .tile-big span,
+.col-md-5 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-6 > .tile-caption,
+.col-md-5 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-5 .vertical-height-5,
+.col-md-5 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-5 .vertical-height-5.tile,
+.col-md-5 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-5 > .tile-big,
+.col-md-5 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-5 > .tile-big span,
+.col-md-5 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-5 > .tile-caption,
+.col-md-5 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-5 .vertical-height-4,
+.col-md-5 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-5 .vertical-height-4.tile,
+.col-md-5 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-4 > .tile-big,
+.col-md-5 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-4 > .tile-big span,
+.col-md-5 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-4 > .tile-caption,
+.col-md-5 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-5 .vertical-height-3,
+.col-md-5 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-5 .vertical-height-3.tile,
+.col-md-5 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-3 > .tile-big,
+.col-md-5 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-3 > .tile-big span,
+.col-md-5 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-3 > .tile-caption,
+.col-md-5 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-5 .vertical-height-2,
+.col-md-5 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-5 .vertical-height-2.tile,
+.col-md-5 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-2 > .tile-big,
+.col-md-5 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-2 > .tile-big span,
+.col-md-5 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-2 > .tile-caption,
+.col-md-5 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-5 .vertical-height-1,
+.col-md-5 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-5 .vertical-height-1.tile,
+.col-md-5 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-5 .vertical-height-1 > .tile-big,
+.col-md-5 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-5 .vertical-height-1 > .tile-big span,
+.col-md-5 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-5 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-5 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-5 .vertical-height-1 > .tile-caption,
+.col-md-5 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-4 .vertical-height-12,
+.col-md-4 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-4 .vertical-height-12.tile,
+.col-md-4 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-12 > .tile-big,
+.col-md-4 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-12 > .tile-big span,
+.col-md-4 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-12 > .tile-caption,
+.col-md-4 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-4 .vertical-height-11,
+.col-md-4 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-4 .vertical-height-11.tile,
+.col-md-4 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-11 > .tile-big,
+.col-md-4 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-11 > .tile-big span,
+.col-md-4 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-11 > .tile-caption,
+.col-md-4 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-4 .vertical-height-10,
+.col-md-4 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-4 .vertical-height-10.tile,
+.col-md-4 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-10 > .tile-big,
+.col-md-4 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-10 > .tile-big span,
+.col-md-4 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-10 > .tile-caption,
+.col-md-4 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-4 .vertical-height-9,
+.col-md-4 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-4 .vertical-height-9.tile,
+.col-md-4 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-9 > .tile-big,
+.col-md-4 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-9 > .tile-big span,
+.col-md-4 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-9 > .tile-caption,
+.col-md-4 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-4 .vertical-height-8,
+.col-md-4 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-4 .vertical-height-8.tile,
+.col-md-4 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-8 > .tile-big,
+.col-md-4 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-8 > .tile-big span,
+.col-md-4 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-8 > .tile-caption,
+.col-md-4 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-4 .vertical-height-7,
+.col-md-4 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-4 .vertical-height-7.tile,
+.col-md-4 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-7 > .tile-big,
+.col-md-4 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-7 > .tile-big span,
+.col-md-4 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-7 > .tile-caption,
+.col-md-4 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-4 .vertical-height-6,
+.col-md-4 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-4 .vertical-height-6.tile,
+.col-md-4 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-6 > .tile-big,
+.col-md-4 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-6 > .tile-big span,
+.col-md-4 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-6 > .tile-caption,
+.col-md-4 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-4 .vertical-height-5,
+.col-md-4 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-4 .vertical-height-5.tile,
+.col-md-4 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-5 > .tile-big,
+.col-md-4 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-5 > .tile-big span,
+.col-md-4 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-5 > .tile-caption,
+.col-md-4 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-4 .vertical-height-4,
+.col-md-4 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-4 .vertical-height-4.tile,
+.col-md-4 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-4 > .tile-big,
+.col-md-4 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-4 > .tile-big span,
+.col-md-4 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-4 > .tile-caption,
+.col-md-4 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-4 .vertical-height-3,
+.col-md-4 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-4 .vertical-height-3.tile,
+.col-md-4 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-3 > .tile-big,
+.col-md-4 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-3 > .tile-big span,
+.col-md-4 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-3 > .tile-caption,
+.col-md-4 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-4 .vertical-height-2,
+.col-md-4 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-4 .vertical-height-2.tile,
+.col-md-4 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-2 > .tile-big,
+.col-md-4 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-2 > .tile-big span,
+.col-md-4 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-2 > .tile-caption,
+.col-md-4 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-4 .vertical-height-1,
+.col-md-4 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-4 .vertical-height-1.tile,
+.col-md-4 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-4 .vertical-height-1 > .tile-big,
+.col-md-4 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-4 .vertical-height-1 > .tile-big span,
+.col-md-4 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-4 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-4 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-4 .vertical-height-1 > .tile-caption,
+.col-md-4 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-3 .vertical-height-12,
+.col-md-3 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-3 .vertical-height-12.tile,
+.col-md-3 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-12 > .tile-big,
+.col-md-3 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-12 > .tile-big span,
+.col-md-3 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-12 > .tile-caption,
+.col-md-3 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-3 .vertical-height-11,
+.col-md-3 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-3 .vertical-height-11.tile,
+.col-md-3 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-11 > .tile-big,
+.col-md-3 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-11 > .tile-big span,
+.col-md-3 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-11 > .tile-caption,
+.col-md-3 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-3 .vertical-height-10,
+.col-md-3 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-3 .vertical-height-10.tile,
+.col-md-3 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-10 > .tile-big,
+.col-md-3 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-10 > .tile-big span,
+.col-md-3 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-10 > .tile-caption,
+.col-md-3 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-3 .vertical-height-9,
+.col-md-3 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-3 .vertical-height-9.tile,
+.col-md-3 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-9 > .tile-big,
+.col-md-3 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-9 > .tile-big span,
+.col-md-3 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-9 > .tile-caption,
+.col-md-3 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-3 .vertical-height-8,
+.col-md-3 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-3 .vertical-height-8.tile,
+.col-md-3 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-8 > .tile-big,
+.col-md-3 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-8 > .tile-big span,
+.col-md-3 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-8 > .tile-caption,
+.col-md-3 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-3 .vertical-height-7,
+.col-md-3 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-3 .vertical-height-7.tile,
+.col-md-3 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-7 > .tile-big,
+.col-md-3 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-7 > .tile-big span,
+.col-md-3 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-7 > .tile-caption,
+.col-md-3 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-3 .vertical-height-6,
+.col-md-3 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-3 .vertical-height-6.tile,
+.col-md-3 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-6 > .tile-big,
+.col-md-3 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-6 > .tile-big span,
+.col-md-3 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-6 > .tile-caption,
+.col-md-3 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-3 .vertical-height-5,
+.col-md-3 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-3 .vertical-height-5.tile,
+.col-md-3 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-5 > .tile-big,
+.col-md-3 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-5 > .tile-big span,
+.col-md-3 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-5 > .tile-caption,
+.col-md-3 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-3 .vertical-height-4,
+.col-md-3 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-3 .vertical-height-4.tile,
+.col-md-3 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-4 > .tile-big,
+.col-md-3 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-4 > .tile-big span,
+.col-md-3 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-4 > .tile-caption,
+.col-md-3 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-3 .vertical-height-3,
+.col-md-3 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-3 .vertical-height-3.tile,
+.col-md-3 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-3 > .tile-big,
+.col-md-3 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-3 > .tile-big span,
+.col-md-3 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-3 > .tile-caption,
+.col-md-3 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-3 .vertical-height-2,
+.col-md-3 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-3 .vertical-height-2.tile,
+.col-md-3 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-2 > .tile-big,
+.col-md-3 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-2 > .tile-big span,
+.col-md-3 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-2 > .tile-caption,
+.col-md-3 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-3 .vertical-height-1,
+.col-md-3 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-3 .vertical-height-1.tile,
+.col-md-3 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-3 .vertical-height-1 > .tile-big,
+.col-md-3 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-3 .vertical-height-1 > .tile-big span,
+.col-md-3 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-3 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-3 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-3 .vertical-height-1 > .tile-caption,
+.col-md-3 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-2 .vertical-height-12,
+.col-md-2 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-2 .vertical-height-12.tile,
+.col-md-2 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-12 > .tile-big,
+.col-md-2 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-12 > .tile-big span,
+.col-md-2 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-12 > .tile-caption,
+.col-md-2 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-2 .vertical-height-11,
+.col-md-2 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-2 .vertical-height-11.tile,
+.col-md-2 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-11 > .tile-big,
+.col-md-2 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-11 > .tile-big span,
+.col-md-2 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-11 > .tile-caption,
+.col-md-2 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-2 .vertical-height-10,
+.col-md-2 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-2 .vertical-height-10.tile,
+.col-md-2 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-10 > .tile-big,
+.col-md-2 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-10 > .tile-big span,
+.col-md-2 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-10 > .tile-caption,
+.col-md-2 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-2 .vertical-height-9,
+.col-md-2 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-2 .vertical-height-9.tile,
+.col-md-2 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-9 > .tile-big,
+.col-md-2 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-9 > .tile-big span,
+.col-md-2 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-9 > .tile-caption,
+.col-md-2 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-2 .vertical-height-8,
+.col-md-2 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-2 .vertical-height-8.tile,
+.col-md-2 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-8 > .tile-big,
+.col-md-2 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-8 > .tile-big span,
+.col-md-2 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-8 > .tile-caption,
+.col-md-2 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-2 .vertical-height-7,
+.col-md-2 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-2 .vertical-height-7.tile,
+.col-md-2 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-7 > .tile-big,
+.col-md-2 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-7 > .tile-big span,
+.col-md-2 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-7 > .tile-caption,
+.col-md-2 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-2 .vertical-height-6,
+.col-md-2 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-2 .vertical-height-6.tile,
+.col-md-2 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-6 > .tile-big,
+.col-md-2 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-6 > .tile-big span,
+.col-md-2 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-6 > .tile-caption,
+.col-md-2 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-2 .vertical-height-5,
+.col-md-2 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-2 .vertical-height-5.tile,
+.col-md-2 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-5 > .tile-big,
+.col-md-2 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-5 > .tile-big span,
+.col-md-2 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-5 > .tile-caption,
+.col-md-2 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-2 .vertical-height-4,
+.col-md-2 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-2 .vertical-height-4.tile,
+.col-md-2 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-4 > .tile-big,
+.col-md-2 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-4 > .tile-big span,
+.col-md-2 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-4 > .tile-caption,
+.col-md-2 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-2 .vertical-height-3,
+.col-md-2 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-2 .vertical-height-3.tile,
+.col-md-2 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-3 > .tile-big,
+.col-md-2 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-3 > .tile-big span,
+.col-md-2 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-3 > .tile-caption,
+.col-md-2 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-2 .vertical-height-2,
+.col-md-2 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-2 .vertical-height-2.tile,
+.col-md-2 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-2 > .tile-big,
+.col-md-2 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-2 > .tile-big span,
+.col-md-2 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-2 > .tile-caption,
+.col-md-2 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-2 .vertical-height-1,
+.col-md-2 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-2 .vertical-height-1.tile,
+.col-md-2 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-2 .vertical-height-1 > .tile-big,
+.col-md-2 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-2 .vertical-height-1 > .tile-big span,
+.col-md-2 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-2 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-2 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-2 .vertical-height-1 > .tile-caption,
+.col-md-2 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.col-lg-1 .vertical-height-12,
+.col-md-1 .vertical-height-12 {
+  height: 1110px;
+}
+.col-lg-1 .vertical-height-12.tile,
+.col-md-1 .vertical-height-12.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-12 > .tile-big,
+.col-md-1 .vertical-height-12 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-12 > .tile-big span,
+.col-md-1 .vertical-height-12 > .tile-big span {
+  font-size: 555px;
+  line-height: 1110px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-12 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-12 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 832.5px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-12 > .tile-caption,
+.col-md-1 .vertical-height-12 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 222px;
+  width: 100%;
+  height: 20%;
+  font-size: 222px;
+}
+.col-lg-1 .vertical-height-11,
+.col-md-1 .vertical-height-11 {
+  height: 1015px;
+}
+.col-lg-1 .vertical-height-11.tile,
+.col-md-1 .vertical-height-11.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-11 > .tile-big,
+.col-md-1 .vertical-height-11 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-11 > .tile-big span,
+.col-md-1 .vertical-height-11 > .tile-big span {
+  font-size: 507.5px;
+  line-height: 1015px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-11 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-11 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 761.25px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-11 > .tile-caption,
+.col-md-1 .vertical-height-11 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 203px;
+  width: 100%;
+  height: 20%;
+  font-size: 203px;
+}
+.col-lg-1 .vertical-height-10,
+.col-md-1 .vertical-height-10 {
+  height: 920px;
+}
+.col-lg-1 .vertical-height-10.tile,
+.col-md-1 .vertical-height-10.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-10 > .tile-big,
+.col-md-1 .vertical-height-10 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-10 > .tile-big span,
+.col-md-1 .vertical-height-10 > .tile-big span {
+  font-size: 460px;
+  line-height: 920px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-10 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-10 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 690px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-10 > .tile-caption,
+.col-md-1 .vertical-height-10 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 184px;
+  width: 100%;
+  height: 20%;
+  font-size: 184px;
+}
+.col-lg-1 .vertical-height-9,
+.col-md-1 .vertical-height-9 {
+  height: 825px;
+}
+.col-lg-1 .vertical-height-9.tile,
+.col-md-1 .vertical-height-9.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-9 > .tile-big,
+.col-md-1 .vertical-height-9 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-9 > .tile-big span,
+.col-md-1 .vertical-height-9 > .tile-big span {
+  font-size: 412.5px;
+  line-height: 825px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-9 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-9 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 618.75px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-9 > .tile-caption,
+.col-md-1 .vertical-height-9 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 165px;
+  width: 100%;
+  height: 20%;
+  font-size: 165px;
+}
+.col-lg-1 .vertical-height-8,
+.col-md-1 .vertical-height-8 {
+  height: 730px;
+}
+.col-lg-1 .vertical-height-8.tile,
+.col-md-1 .vertical-height-8.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-8 > .tile-big,
+.col-md-1 .vertical-height-8 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-8 > .tile-big span,
+.col-md-1 .vertical-height-8 > .tile-big span {
+  font-size: 365px;
+  line-height: 730px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-8 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-8 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 547.5px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-8 > .tile-caption,
+.col-md-1 .vertical-height-8 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 146px;
+  width: 100%;
+  height: 20%;
+  font-size: 146px;
+}
+.col-lg-1 .vertical-height-7,
+.col-md-1 .vertical-height-7 {
+  height: 635px;
+}
+.col-lg-1 .vertical-height-7.tile,
+.col-md-1 .vertical-height-7.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-7 > .tile-big,
+.col-md-1 .vertical-height-7 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-7 > .tile-big span,
+.col-md-1 .vertical-height-7 > .tile-big span {
+  font-size: 317.5px;
+  line-height: 635px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-7 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-7 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 476.25px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-7 > .tile-caption,
+.col-md-1 .vertical-height-7 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 127px;
+  width: 100%;
+  height: 20%;
+  font-size: 127px;
+}
+.col-lg-1 .vertical-height-6,
+.col-md-1 .vertical-height-6 {
+  height: 540px;
+}
+.col-lg-1 .vertical-height-6.tile,
+.col-md-1 .vertical-height-6.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-6 > .tile-big,
+.col-md-1 .vertical-height-6 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-6 > .tile-big span,
+.col-md-1 .vertical-height-6 > .tile-big span {
+  font-size: 270px;
+  line-height: 540px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-6 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-6 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-6 > .tile-caption,
+.col-md-1 .vertical-height-6 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 108px;
+  width: 100%;
+  height: 20%;
+  font-size: 108px;
+}
+.col-lg-1 .vertical-height-5,
+.col-md-1 .vertical-height-5 {
+  height: 445px;
+}
+.col-lg-1 .vertical-height-5.tile,
+.col-md-1 .vertical-height-5.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-5 > .tile-big,
+.col-md-1 .vertical-height-5 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-5 > .tile-big span,
+.col-md-1 .vertical-height-5 > .tile-big span {
+  font-size: 222.5px;
+  line-height: 445px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-5 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-5 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 333.75px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-5 > .tile-caption,
+.col-md-1 .vertical-height-5 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 89px;
+  width: 100%;
+  height: 20%;
+  font-size: 89px;
+}
+.col-lg-1 .vertical-height-4,
+.col-md-1 .vertical-height-4 {
+  height: 350px;
+}
+.col-lg-1 .vertical-height-4.tile,
+.col-md-1 .vertical-height-4.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-4 > .tile-big,
+.col-md-1 .vertical-height-4 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-4 > .tile-big span,
+.col-md-1 .vertical-height-4 > .tile-big span {
+  font-size: 175px;
+  line-height: 350px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-4 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-4 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 262.5px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-4 > .tile-caption,
+.col-md-1 .vertical-height-4 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 70px;
+  width: 100%;
+  height: 20%;
+  font-size: 70px;
+}
+.col-lg-1 .vertical-height-3,
+.col-md-1 .vertical-height-3 {
+  height: 255px;
+}
+.col-lg-1 .vertical-height-3.tile,
+.col-md-1 .vertical-height-3.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-3 > .tile-big,
+.col-md-1 .vertical-height-3 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-3 > .tile-big span,
+.col-md-1 .vertical-height-3 > .tile-big span {
+  font-size: 127.5px;
+  line-height: 255px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-3 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-3 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 191.25px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-3 > .tile-caption,
+.col-md-1 .vertical-height-3 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 51px;
+  width: 100%;
+  height: 20%;
+  font-size: 51px;
+}
+.col-lg-1 .vertical-height-2,
+.col-md-1 .vertical-height-2 {
+  height: 160px;
+}
+.col-lg-1 .vertical-height-2.tile,
+.col-md-1 .vertical-height-2.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-2 > .tile-big,
+.col-md-1 .vertical-height-2 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-2 > .tile-big span,
+.col-md-1 .vertical-height-2 > .tile-big span {
+  font-size: 80px;
+  line-height: 160px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-2 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-2 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 120px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-2 > .tile-caption,
+.col-md-1 .vertical-height-2 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 32px;
+  width: 100%;
+  height: 20%;
+  font-size: 32px;
+}
+.col-lg-1 .vertical-height-1,
+.col-md-1 .vertical-height-1 {
+  height: 65px;
+}
+.col-lg-1 .vertical-height-1.tile,
+.col-md-1 .vertical-height-1.tile {
+  position: relative;
+}
+.col-lg-1 .vertical-height-1 > .tile-big,
+.col-md-1 .vertical-height-1 > .tile-big {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.col-lg-1 .vertical-height-1 > .tile-big span,
+.col-md-1 .vertical-height-1 > .tile-big span {
+  font-size: 32.5px;
+  line-height: 65px;
+  padding: 10px;
+}
+.col-lg-1 .vertical-height-1 > .tile-big.text-bottom span,
+.col-md-1 .vertical-height-1 > .tile-big.text-bottom span {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 48.75px;
+  bottom: 10px;
+}
+.col-lg-1 .vertical-height-1 > .tile-caption,
+.col-md-1 .vertical-height-1 > .tile-caption {
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0;
+  line-height: 13px;
+  width: 100%;
+  height: 20%;
+  font-size: 13px;
+}
+.push-t-100 {
+  margin-top: 100px;
+}
+.push-b-100 {
+  margin-bottom: 100px;
+}
+.push-l-100 {
+  margin-left: 100px;
+}
+.push-r-100 {
+  margin-right: 100px;
+}
+.push-t-95 {
+  margin-top: 95px;
+}
+.push-b-95 {
+  margin-bottom: 95px;
+}
+.push-l-95 {
+  margin-left: 95px;
+}
+.push-r-95 {
+  margin-right: 95px;
+}
+.push-t-90 {
+  margin-top: 90px;
+}
+.push-b-90 {
+  margin-bottom: 90px;
+}
+.push-l-90 {
+  margin-left: 90px;
+}
+.push-r-90 {
+  margin-right: 90px;
+}
+.push-t-85 {
+  margin-top: 85px;
+}
+.push-b-85 {
+  margin-bottom: 85px;
+}
+.push-l-85 {
+  margin-left: 85px;
+}
+.push-r-85 {
+  margin-right: 85px;
+}
+.push-t-80 {
+  margin-top: 80px;
+}
+.push-b-80 {
+  margin-bottom: 80px;
+}
+.push-l-80 {
+  margin-left: 80px;
+}
+.push-r-80 {
+  margin-right: 80px;
+}
+.push-t-75 {
+  margin-top: 75px;
+}
+.push-b-75 {
+  margin-bottom: 75px;
+}
+.push-l-75 {
+  margin-left: 75px;
+}
+.push-r-75 {
+  margin-right: 75px;
+}
+.push-t-70 {
+  margin-top: 70px;
+}
+.push-b-70 {
+  margin-bottom: 70px;
+}
+.push-l-70 {
+  margin-left: 70px;
+}
+.push-r-70 {
+  margin-right: 70px;
+}
+.push-t-65 {
+  margin-top: 65px;
+}
+.push-b-65 {
+  margin-bottom: 65px;
+}
+.push-l-65 {
+  margin-left: 65px;
+}
+.push-r-65 {
+  margin-right: 65px;
+}
+.push-t-60 {
+  margin-top: 60px;
+}
+.push-b-60 {
+  margin-bottom: 60px;
+}
+.push-l-60 {
+  margin-left: 60px;
+}
+.push-r-60 {
+  margin-right: 60px;
+}
+.push-t-55 {
+  margin-top: 55px;
+}
+.push-b-55 {
+  margin-bottom: 55px;
+}
+.push-l-55 {
+  margin-left: 55px;
+}
+.push-r-55 {
+  margin-right: 55px;
+}
+.push-t-50 {
+  margin-top: 50px;
+}
+.push-b-50 {
+  margin-bottom: 50px;
+}
+.push-l-50 {
+  margin-left: 50px;
+}
+.push-r-50 {
+  margin-right: 50px;
+}
+.push-t-45 {
+  margin-top: 45px;
+}
+.push-b-45 {
+  margin-bottom: 45px;
+}
+.push-l-45 {
+  margin-left: 45px;
+}
+.push-r-45 {
+  margin-right: 45px;
+}
+.push-t-40 {
+  margin-top: 40px;
+}
+.push-b-40 {
+  margin-bottom: 40px;
+}
+.push-l-40 {
+  margin-left: 40px;
+}
+.push-r-40 {
+  margin-right: 40px;
+}
+.push-t-35 {
+  margin-top: 35px;
+}
+.push-b-35 {
+  margin-bottom: 35px;
+}
+.push-l-35 {
+  margin-left: 35px;
+}
+.push-r-35 {
+  margin-right: 35px;
+}
+.push-t-30 {
+  margin-top: 30px;
+}
+.push-b-30 {
+  margin-bottom: 30px;
+}
+.push-l-30 {
+  margin-left: 30px;
+}
+.push-r-30 {
+  margin-right: 30px;
+}
+.push-t-25 {
+  margin-top: 25px;
+}
+.push-b-25 {
+  margin-bottom: 25px;
+}
+.push-l-25 {
+  margin-left: 25px;
+}
+.push-r-25 {
+  margin-right: 25px;
+}
+.push-t-20 {
+  margin-top: 20px;
+}
+.push-b-20 {
+  margin-bottom: 20px;
+}
+.push-l-20 {
+  margin-left: 20px;
+}
+.push-r-20 {
+  margin-right: 20px;
+}
+.push-t-15 {
+  margin-top: 15px;
+}
+.push-b-15 {
+  margin-bottom: 15px;
+}
+.push-l-15 {
+  margin-left: 15px;
+}
+.push-r-15 {
+  margin-right: 15px;
+}
+.push-t-10 {
+  margin-top: 10px;
+}
+.push-b-10 {
+  margin-bottom: 10px;
+}
+.push-l-10 {
+  margin-left: 10px;
+}
+.push-r-10 {
+  margin-right: 10px;
+}
+.push-t-5 {
+  margin-top: 5px;
+}
+.push-b-5 {
+  margin-bottom: 5px;
+}
+.push-l-5 {
+  margin-left: 5px;
+}
+.push-r-5 {
+  margin-right: 5px;
+}
+.bg-green {
+  background-color: #00A300;
+}
+.bg-greenDark {
+  background-color: #1E7145;
+}
+.bg-greenLight {
+  background-color: #99B433;
+}
+.bg-pink {
+  background-color: #9F00A7;
+}
+.bg-pinkDark {
+  background-color: #7E3878;
+}
+.bg-yellow {
+  background-color: #FFC40D;
+}
+.bg-darken {
+  background-color: #1D1D1D;
+}
+.bg-purple {
+  background-color: #603CBA;
+}
+.bg-blue {
+  background-color: #2D89EF;
+}
+.bg-blueDark {
+  background-color: #2B5797;
+}
+.bg-blueLight {
+  background-color: #EFF4FF;
+}
+.bg-orange {
+  background-color: #E3A21A;
+}
+.bg-orangeDark {
+  background-color: #DA532C;
+}
+.bg-red {
+  background-color: #B91D47;
+}
+.bg-white {
+  background-color: #FFFFFF;
+}
+.bg-blogger-orange {
+  background-color: #ff1c15;
+}
+.bg-linkedin-blue {
+  background-color: #0097bd;
+}
+.bg-twitter-blue {
+  background-color: #32def4;
+}
+.bg-youtube-red {
+  background-color: #e64a41;
+}
+.fg-green {
+  background-color: #00A300;
+}
+.fg-greenDark {
+  background-color: #1E7145;
+}
+.fg-greenLight {
+  background-color: #99B433;
+}
+.fg-pink {
+  background-color: #9F00A7;
+}
+.fg-pinkDark {
+  background-color: #7E3878;
+}
+.fg-yellow {
+  background-color: #FFC40D;
+}
+.fg-darken {
+  background-color: #1D1D1D;
+}
+.fg-purple {
+  background-color: #603CBA;
+}
+.fg-blue {
+  background-color: #2D89EF;
+}
+.fg-blueDark {
+  background-color: #2B5797;
+}
+.fg-blueLight {
+  background-color: #EFF4FF;
+}
+.fg-orange {
+  background-color: #E3A21A;
+}
+.fg-orangeDark {
+  background-color: #DA532C;
+}
+.fg-red {
+  background-color: #B91D47;
+}
+.fg-white {
+  background-color: #FFFFFF;
+}
+.fg-blogger-orange {
+  background-color: #ff1c15;
+}
+.fg-linkedin-blue {
+  background-color: #0097bd;
+}
+.fg-twitter-blue {
+  background-color: #32def4;
+}
+.fg-youtube-red {
+  background-color: #e64a41;
+}
+.text-white-light {
+  color: rgba(255, 255, 255, 0.8);
+}
+html,
+body {
+  font-family: 'PT Mono', monospace;
+}

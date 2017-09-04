@@ -1,0 +1,170 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
+
+    <title>Angular Weather Dashboard</title>
+    <!-- Bootstrap -->
+    <link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link href="/bower_components/noty/lib/noty.css" rel="stylesheet" />
+    <link href="/assets/style/tiles.min.css" rel="stylesheet" />
+    <style type="text/css">
+        .vcenter {
+            display: inline-block;
+            vertical-align: middle;
+            float: none;
+        }
+
+        html, body {
+            background: #333;
+        }
+
+        .row-4 {
+            height: 380px;
+        }
+
+        .bg-blue {
+            background: rgb(0, 38, 255);
+        }
+    </style>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+    <!-- jQuery -->
+    <script src="/bower_components/moment/min/moment.min.js"></script>
+    <script src="/bower_components/noty/lib/noty.js"></script>
+
+    <!-- Eclipse Paho MQTT Client -->
+    <script src="/bower_components/paho-mqtt-js/mqttws31.js"></script>
+
+    <!-- Angular -->
+    <script src="/bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-paho/src/angular-paho.js"></script>
+
+    <!-- app -->
+    <script src="/bower_components/angular-paho/src/test.js"></script>
+
+</head>
+<body ng-controller="test">
+    <div class="container" ng-show="wasConnected">
+        <div class="row align-items-center push-t-30">
+            <div class="col-lg-12 text-white text-center font-s60">
+                RCSC Weather Station
+            </div>
+        </div>
+        <div class="row align-items-center push-t-50">
+            <div class="col-lg-4">
+                <div class="tile bg-blue text-white vertical-height-2">
+                    <div class="tile-big bg-danger text-center">
+                        <span>{{time}}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="tile bg-green text-white vertical-height-2">
+                    <div class="tile-big text-right text-bottom">
+                        <span>{{bmpTemperature}}</span>
+                    </div>
+                    <div class="tile-caption text-center  text-white-light">
+                        Temperature (&deg;C)
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="tile bg-blueDark text-white vertical-height-2">
+                    <div class="tile-big text-right text-bottom">
+                        <span>{{bmpPressure}}</span>
+                    </div>
+                    <div class="tile-caption text-center  text-white-light">
+                        Pressure (hPa)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row push-t-30">
+            <div class="col-lg-4">
+                <div class="tile bg-blue text-white vertical-height-2">
+                    <div class="tile-big bg-danger text-center ">
+                        <span>{{date}}</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="tile bg-purple text-white vertical-height-2">
+                    <div class="tile-big text-right text-bottom">
+                        <span>Err</span>
+                    </div>
+                    <div class="tile-caption text-center  text-white-light">
+                        Humidty (%)
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="tile bg-red text-white vertical-height-2">
+                    <div class="tile-big text-right text-bottom">
+                        <span>Err</span>
+                    </div>
+                    <div class="tile-caption text-center  text-white-light">
+                        Rain (mm)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row push-t-30">
+            <div class="col-lg-12">
+                <div class="tile bg-blogger-orange text-white vertical-height-2">
+                    <div class="tile-big text-center ">
+                        <span>{{weather}}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row push-t-30">
+            <div class="col-lg-12 text-center font-s10">
+                <div class="tile bg-blueDark vertical-height-1">
+                    <div class="tile-big text-center">
+                        <span>{{lastMessage}}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div ng-hide="wasConnected">
+        <div class="container">
+            <div class="row align-items-center push-t-30">
+                <div class="col-lg-12 text-white text-center font-s60">
+                    RCSC Weather Station
+                </div>
+            </div>
+        </div>
+        <div class="container bg-purple font-s20">
+            <div class="row justify-content-center push-t-50 ">
+                <div class="col-lg-6 text-center text-white">
+                    Login
+                </div>
+            </div>
+            <div class="row justify-content-center text-white">
+                <div class="col-lg-6 push-b-20">
+                    <form novalidate>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Username</label>
+                            <input type="text" class="form-control" id="txtUsername" placeholder="Enter Username" ng-model="mqttUsername">
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Password</label>
+                            <input type="password" class="form-control" id="txtPassword" placeholder="Enter Password" ng-model="mqttPassword">
+                        </div>
+                        <button class="btn btn-primary btn-block" ng-disabled="btnDisabled" ng-click="doLogin()">{{btnText}}</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
