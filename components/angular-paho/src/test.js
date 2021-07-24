@@ -91,7 +91,9 @@
                     $scope.current = parseFloat(payload).toFixed(2);
                     break;
                 case '88C45E/PowerMeter/1/PowerActive/1':
-                    $scope.kwh = parseFloat(payload).toFixed(2);
+                    var val = parseFloat(payload);
+                    val = val * 1000;
+                    $scope.kwh = val.toFixed(2);
                     break;
                 case '88C45E/PowerMeter/1/Frequency':
                     $scope.frequency = parseFloat(payload).toFixed(2);
