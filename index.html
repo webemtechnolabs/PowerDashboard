@@ -70,11 +70,11 @@
         <div class="row align-items-center push-t-50">
             <div class="col-lg-4">
                 <div class="tile bg-blue text-white vertical-height-2">
-                    <div class="tile-big bg-danger text-center">
+                    <div class="tile-big text-right text-bottom">
                         <span>{{voltage}}</span>
                     </div>
                     <div class="tile-caption text-center  text-white-light">
-                        Voltage
+                        Voltage (V)
                     </div>
                 </div>
             </div>
@@ -84,10 +84,22 @@
                         <span>{{current}}</span>
                     </div>
                     <div class="tile-caption text-center  text-white-light">
-                        Temperature (&deg;C)
+                        Current (A)
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4">
+                <div class="tile bg-blueDark text-white vertical-height-2">
+                    <div class="tile-big text-right text-bottom">
+                        <span>{{kwh}}</span>
+                    </div>
+                    <div class="tile-caption text-center  text-white-light">
+                        Energy (kWh)
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row push-t-30">
             <div class="col-lg-4">
                 <div class="tile bg-blueDark text-white vertical-height-2">
                     <div class="tile-big text-right text-bottom">
@@ -98,37 +110,28 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row push-t-30">
-            <div class="col-lg-4">
-                <div class="tile bg-blue text-white vertical-height-2">
-                    <div class="tile-big bg-danger text-center ">
-                        <span>{{date}}</span>
-                    </div>
-                </div>
-            </div>
             <div class="col-lg-4">
                 <div class="tile bg-purple text-white vertical-height-2">
                     <div class="tile-big text-right text-bottom">
-                        <span>Err</span>
+                        <span>{{temperature}}</span>
                     </div>
                     <div class="tile-caption text-center  text-white-light">
-                        Humidty (%)
+                        Temperature (&deg;C)
                     </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="tile bg-red text-white vertical-height-2">
                     <div class="tile-big text-right text-bottom">
-                        <span>Err</span>
+                        <span>{{pf}}</span>
                     </div>
                     <div class="tile-caption text-center  text-white-light">
-                        Rain (mm)
+                        Power Factor
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row push-t-30">
+        <!-- <div class="row push-t-30">
             <div class="col-lg-12">
                 <div class="tile bg-blogger-orange text-white vertical-height-2">
                     <div class="tile-big text-center ">
@@ -136,7 +139,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="row push-t-30">
             <div class="col-lg-12 text-center font-s10">
                 <div class="tile bg-blueDark vertical-height-1">
@@ -151,7 +154,7 @@
         <div class="container">
             <div class="row align-items-center push-t-30">
                 <div class="col-lg-12 text-white text-center font-s60">
-                    RCSC Weather Station
+                    Meter Dashboard
                 </div>
             </div>
         </div>

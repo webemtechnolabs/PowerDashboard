@@ -5,9 +5,9 @@
 (function () {
     angular.module('app').controller('test', function ($scope, MqttClient, $timeout) {
 
-        var ip = "-- MQTT Server IP Address --";
-        var port = "8083";
-        var id = "WxDashboard-" + Math.random();
+        var ip = "m24.cloudmqtt.com";
+        var port = "30177";
+        var id = "PxDashboard-" + Math.random();
         var wasConnected = false;
 
         var con
@@ -21,14 +21,14 @@
 
         $scope.time = "--- --";
 
-        $scope.bmpTemperature = "Err";
-        $scope.bmpPressure = "Err";
-        $scope.weather = "Unknown";
-        
+        $scope.voltage = "Err";
+        $scope.current = "Err";
+        $scope.frequency = "Unknown";
+
 
         $scope.btnText = "Login";
         $scope.btnDisabled = false;
-        $scope.lastMessage = '';
+        $scope.lastMessage = 'Please wait...';
 
         $scope.doLogin = function () {
             //alert('Will try to login with username ' + $scope.mqttUsername + ' and password ' + $scope.mqttPassword);
@@ -48,7 +48,7 @@
 
         MqttClient.init(ip, port, id, messageCallback, 10000, connectionLostCallback);
         MqttClient.startTrace();
-        
+
         function doConnect() {
             console.log('Trying to connect...');
             if (MqttClient.isConnected()) return;
@@ -80,45 +80,72 @@
 
         function messageCallback(message) {
             console.log('Incoming message...');
-            if (message.destinationName === 'domoticz/out') {
-                //Ensure it's a domoticz message.
-                var payload = JSON.parse(message.payloadString);
+            console.log(message);
+            var payload = message.payloadString;
 
-                switch (payload.idx) {
-                    case 1:
-                        //baro
-                        $scope.bmpPressure = (payload.svalue1 - 0).toFixed(1);
-
-                        switch (payload.svalue2 - 0) {
-                            case 0:
-                                $scope.weather = 'Stable'; break;
-                            case 1:
-                                $scope.weather = 'Rising Slowly'; break;
-                            case 2:
-                                $scope.weather = 'Falling Slowly'; break;
-                            case 3:
-                                $scope.weather = 'Rising Quicly'; break;
-                            case 4:
-                                $scope.weather = 'Falling Quickly'; break;
-                            default:
-                                $scope.weather = 'Unknown'; break;
-                        }
-                        break;
-
-                    case 2:
-                        //baro temperature
-                        $scope.bmpTemperature = (payload.svalue1 - 0).toFixed(1);
-                        console.log("bmpTemperature", $scope.bmpTemperature);
-                        break;
-                    default:
-                        break
-                }
-
-                $scope.message = payload;
-                $scope.lastMessage = moment().format('HH:mm:ss');
-                console.log(payload.idx, payload.svalue1);
-                
+            switch (message.destinationName) {
+                case '88C45E/PowerMeter/1/Voltage/1':
+                    $scope.voltage = parseFloat(payload).toFixed(2);
+                    break;
+                case '88C45E/PowerMeter/1/Current/1':
+                    $scope.current = parseFloat(payload).toFixed(2);
+                    break;
+                case '88C45E/PowerMeter/1/PowerActive/1':
+                    $scope.kwh = parseFloat(payload).toFixed(2);
+                    break;
+                case '88C45E/PowerMeter/1/Frequency':
+                    $scope.frequency = parseFloat(payload).toFixed(2);
+                    break;
+                case '88C45E/PowerMeter/1/Temperature':
+                    $scope.temperature = parseFloat(payload).toFixed(2);
+                    break;
+                case '88C45E/PowerMeter/1/PowerFactor/1':
+                    $scope.pf = parseFloat(payload).toFixed(2);
+                    break;                                       
+                default:
+                    console.log(message);
+                    break;
             }
+            $scope.lastMessage = moment().format('HH:mm:ss');
+            // if (message.destinationName === 'domoticz/out') {
+            //     //Ensure it's a domoticz message.
+            //     var payload = JSON.parse(message.payloadString);
+
+            //     switch (payload.idx) {
+            //         case 1:
+            //             //baro
+            //             $scope.bmpPressure = (payload.svalue1 - 0).toFixed(1);
+
+            //             switch (payload.svalue2 - 0) {
+            //                 case 0:
+            //                     $scope.weather = 'Stable'; break;
+            //                 case 1:
+            //                     $scope.weather = 'Rising Slowly'; break;
+            //                 case 2:
+            //                     $scope.weather = 'Falling Slowly'; break;
+            //                 case 3:
+            //                     $scope.weather = 'Rising Quicly'; break;
+            //                 case 4:
+            //                     $scope.weather = 'Falling Quickly'; break;
+            //                 default:
+            //                     $scope.weather = 'Unknown'; break;
+            //             }
+            //             break;
+
+            //         case 2:
+            //             //baro temperature
+            //             $scope.bmpTemperature = (payload.svalue1 - 0).toFixed(1);
+            //             console.log("bmpTemperature", $scope.bmpTemperature);
+            //             break;
+            //         default:
+            //             break
+            //     }
+
+            //     $scope.message = payload;
+            //     $scope.lastMessage = moment().format('HH:mm:ss');
+            //     console.log(payload.idx, payload.svalue1);
+
+            // }
         }
 
         function successCallback() {
@@ -138,7 +165,7 @@
                 }).show();
             }
             console.log('Connection successful');
-            MqttClient.subscribe('domoticz/out');
+            MqttClient.subscribe('88C45E/PowerMeter/1/#');
             $scope.connected = true;
             $scope.wasConnected = true;
         }
